@@ -51,18 +51,18 @@
 
 ### 部署 - deploy
 
-- 第一季：第 4 集 GitOps 的不二之选 ArgoCD [【Codelab】](platform/lab02-jihu-gitlab) -[【B 站视频】](https://www.bilibili.com/video/BV11a411L7f5)
+- 第一季：第 4 集 GitOps 的不二之选 ArgoCD [【Codelab】](deploy/lab04-argocd) -[【B 站视频】](https://www.bilibili.com/video/BV11a411L7f5)
 
 ### 编排 - Orchestration
 
 - 第一季：第 10 集 品鉴极简风格的容器平台 K3S [【Codelab】](orchestration/lab10-k3s) -[【B 站视频】](https://www.bilibili.com/video/BV11e411g7qx)
 
-### monitor
+### 监控 - monitor
 
 ### 平台 - platform
 
-- 第一季：第 2 集 - 全能级 DevOps 平台 GitLab [【Codelab】](platform/lab02-jihu-gitlab/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1hR4y1c75b)
-- 第一季：第 9 集 - 品鉴 Atlassian 的 DevOps 全家桶的妙用 [【Codelab】](platform/lab09-atlassian/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1vG4y1a7ph)
+- 第一季：第 2 集 - 全能级 DevOps 平台 GitLab [【Codelab】](platform/lab02-jihu-gitlab) - [【B 站视频】](https://www.bilibili.com/video/BV1hR4y1c75b)
+- 第一季：第 9 集 - 品鉴 Atlassian 的 DevOps 全家桶的妙用 [【Codelab】](platform/lab09-atlassian) - [【B 站视频】](https://www.bilibili.com/video/BV1vG4y1a7ph)
 
 
 
