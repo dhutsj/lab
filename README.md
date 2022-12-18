@@ -44,9 +44,9 @@
 
 ### 配置管理
 
-* 第一季： 第 1 集 配置管理神器 Ansible - 新手入门指南 [【Codelab】](config/lab01-ansible) - [【B 站视频】](https://www.bilibili.com/video/BV1Uv4y1K7u9)
-- 第一季： 第 7 集 数据库变更版本管理利器 Liquibase [【Codelab】](databases/lab06-liquibase) - [【B 站视频】](https://www.bilibili.com/video/BV1iT411E7Fk)
-- 第一季：第 8 集 - 基础架构自动化编排工具 Terraform [【Codelab】](config/lab09-teffaform) - [【B 站视频】](https://www.bilibili.com/video/BV1HU4y1e7wZ)
+- 第一季： 第 1 集 配置管理神器 Ansible - 新手入门指南 [【Codelab】](config/lab01-ansible) - [【B 站视频】](https://www.bilibili.com/video/BV1Uv4y1K7u9)
+- 第一季： 第 7 集 数据库变更版本管理利器 Liquibase [【Codelab】](database/lab06-liquibase) - [【B 站视频】](https://www.bilibili.com/video/BV1iT411E7Fk)
+- 第一季：第 9 集 - 基础架构自动化编排工具 Terraform [【Codelab】](config/lab09-terraform) - [【B 站视频】](https://www.bilibili.com/video/BV1HU4y1e7wZ)
 
 
 ### 部署 - deploy
