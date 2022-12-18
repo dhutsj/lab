@@ -38,24 +38,24 @@
 
 ### 持续集成 - ci
 
-* 第一季：第 3 集 恐龙级CI/CD工具 Jenkins [【B 站视频】](https://www.bilibili.com/video/BV1MA4y1Z7Fk)
-* 第一季：第 5 集 云原生 CI 中的强者 Tekton [【B 站视频】](https://www.bilibili.com/video/BV1e94y117tY)
-* 第一季：第 6 集 云开发者可快速上手的 TeamCity [【B 站视频】](https://www.bilibili.com/video/BV1pY4y17754)
+- 第一季：第 3 集 恐龙级CI/CD工具 Jenkins [【Codelab】](ci/lab03-jenkins) - [【B 站视频】](https://www.bilibili.com/video/BV1MA4y1Z7Fk)
+- 第一季：第 5 集 云原生 CI 中的强者 Tekton [【Codelab】](ci/lab05-tekton) - [【B 站视频】](https://www.bilibili.com/video/BV1e94y117tY)
+- 第一季：第 6 集 云开发者可快速上手的 TeamCity [【Codelab】](ci/lab06-teamcity) - [【B 站视频】](https://www.bilibili.com/video/BV1pY4y17754)
 
 ### 配置管理
 
-* 第一季： 第 1 集 配置管理神器 Ansible - 新手入门指南 [【Codelab】](config/lab01-ansible/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1Uv4y1K7u9)
-- 第一季： 第 7 集 数据库变更版本管理利器 Liquibase [【Codelab】](databases/lab06-liquibase/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1iT411E7Fk)
-- 第一季：第 8 集 - 基础架构自动化编排工具 Terraform [【Codelab】](config/lab09-teffaform/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1HU4y1e7wZ)
+* 第一季： 第 1 集 配置管理神器 Ansible - 新手入门指南 [【Codelab】](config/lab01-ansible) - [【B 站视频】](https://www.bilibili.com/video/BV1Uv4y1K7u9)
+- 第一季： 第 7 集 数据库变更版本管理利器 Liquibase [【Codelab】](databases/lab06-liquibase) - [【B 站视频】](https://www.bilibili.com/video/BV1iT411E7Fk)
+- 第一季：第 8 集 - 基础架构自动化编排工具 Terraform [【Codelab】](config/lab09-teffaform) - [【B 站视频】](https://www.bilibili.com/video/BV1HU4y1e7wZ)
 
 
 ### 部署 - deploy
 
-- 第一季：第 4 集 GitOps 的不二之选 ArgoCD [【Codelab】](platform/lab02-jihu-gitlab/readme.md) -[【B 站视频】](https://www.bilibili.com/video/BV11a411L7f5)
+- 第一季：第 4 集 GitOps 的不二之选 ArgoCD [【Codelab】](platform/lab02-jihu-gitlab) -[【B 站视频】](https://www.bilibili.com/video/BV11a411L7f5)
 
 ### 编排 - Orchestration
 
-- 第一季：第 10 集 品鉴极简风格的容器平台 K3S [【Codelab】](orchestration/lab10-k3s/readme.md) -[【B 站视频】](https://www.bilibili.com/video/BV11e411g7qx)
+- 第一季：第 10 集 品鉴极简风格的容器平台 K3S [【Codelab】](orchestration/lab10-k3s) -[【B 站视频】](https://www.bilibili.com/video/BV11e411g7qx)
 
 ### monitor
 
