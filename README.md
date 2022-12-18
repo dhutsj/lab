@@ -27,7 +27,7 @@
 ### code
 
 
-### build     
+### build
 
 
 ### test
@@ -36,7 +36,7 @@
 ### verify
 
 
-### 持续集成 - ci        
+### 持续集成 - ci
 
 * 第一季：第 3 集 恐龙级CI/CD工具 Jenkins [【B 站视频】](https://www.bilibili.com/video/BV1MA4y1Z7Fk)
 * 第一季：第 5 集 云原生 CI 中的强者 Tekton [【B 站视频】](https://www.bilibili.com/video/BV1e94y117tY)
@@ -44,22 +44,25 @@
 
 ### 配置管理
 
-* 第一季： 第1集 配置管理神器 Ansible - 新手入门指南 [【Codelab】](config/lab01-ansible/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1Uv4y1K7u9)
+* 第一季： 第 1 集 配置管理神器 Ansible - 新手入门指南 [【Codelab】](config/lab01-ansible/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1Uv4y1K7u9)
+- 第一季： 第 7 集 数据库变更版本管理利器 Liquibase [【Codelab】](databases/lab06-liquibase/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1iT411E7Fk)
+- 第一季：第 8 集 - 基础架构自动化编排工具 Terraform [【Codelab】](config/lab09-teffaform/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1HU4y1e7wZ)
 
 
+### 部署 - deploy
 
-### 部署 - deploy    
+- 第一季：第 4 集 GitOps 的不二之选 ArgoCD [【Codelab】](platform/lab02-jihu-gitlab/readme.md) -[【B 站视频】](https://www.bilibili.com/video/BV11a411L7f5)
 
-* 第一季：第 4 集 GitOps 的不二之选 ArgoCD [【B 站视频】](https://www.bilibili.com/video/BV11a411L7f5)
+### 编排 - Orchestration
 
-### release   
+- 第一季：第 10 集 品鉴极简风格的容器平台 K3S [【Codelab】](orchestration/lab10-k3s/readme.md) -[【B 站视频】](https://www.bilibili.com/video/BV11e411g7qx)
 
-
-### monitor   
+### monitor
 
 ### 平台 - platform
 
-* 第一季：第 2 集 - 全能级 DevOps 平台 GitLab [【B 站视频】](https://www.bilibili.com/video/BV1hR4y1c75b)
+- 第一季：第 2 集 - 全能级 DevOps 平台 GitLab [【Codelab】](platform/lab02-jihu-gitlab/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1hR4y1c75b)
+- 第一季：第 9 集 - 品鉴 Atlassian 的 DevOps 全家桶的妙用 [【Codelab】](platform/lab09-atlassian/readme.md) - [【B 站视频】](https://www.bilibili.com/video/BV1vG4y1a7ph)
 
 
 
@@ -108,7 +111,7 @@
 * Elastic：欢迎[免费注册 Elastic Cloud 超长（30 天）试用账号](https://info.elastic.co/elasticsearch-service-trial-community-showcase.html?ultron=community-martin&hulk=30d)，只需要邮箱，无需输入信用卡号，直接体验当前最新版本的 Elastic Stack 技术栈。官方微信公众号「Elastic搜索」
 * JetBrains TeamCity Cloud 平台焕然一新，CI/CD 本色依旧，[免费试用](https://www.jetbrains.com/zh-cn/teamcity/cloud/)DevOps社区成员亮明身份还可通过链接获取[更长试用时间](https://www.jetbrains.com/zh-cn/teamcity/get-in-touch/) 官方微信号「JetBrainsChina」
 * 阿里云云起实验室：由阿里云提供的面向个人和企业开发者的零门槛云上实践平台，让开发者能够在“做中学”。实验室提供详细的实验手册指导和免费的实验云资源，一键生成预置实验环境，让开发者能够快速体验云计算、大数据、人工智能等云服务实验场景和解决方案，帮助开发者快速提升使用云服务的能力。[免费体验](https://developer.aliyun.com/adc/?utm_content=g_1000342863)
-
+* Rancher：Rancher 是一个开源的企业级 Kubernetes 管理平台，实现了 K8s 集群在混合云+本地数据中心的集中部署与管理。关注「Rancher 微信公众号」，第一时间了解 Rancher 中文论坛精选内容，公众号后台回复「工具鉴宝」还能免费解锁 K8s 安全防护终极指南哦～
 
 
 ### 赞助商参与
@@ -138,7 +141,6 @@
 * 阿里云云起实验室 & Elastc 赞助了直播抽奖礼品
 * JetBrains 赞助鉴宝人礼品
 
-
 第六期：
 
 * 阿里云云起实验室 & Elastc 赞助了直播抽奖礼品
@@ -149,9 +151,15 @@
 
 第八期：
 
+- ：阿里云云起实验室、中国DevOps社区
+
 第九期：
 
+- 阿里云云起实验室 &Rancher
+
 第十期：
+
+- 阿里云云起实验室 &Rancher
 
 ## 行为准则
 
