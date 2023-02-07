@@ -1,11 +1,18 @@
-# DevOps Tools live show | 工具鉴宝活动
+## DevOps Tools live show | 工具鉴宝活动
 
 >Must know DevOps Tools for Developer [codename = *MKT4D*]
 
-Welcome to the DevOps China code live show! This lab is a collection of hands-on, self-paced exercises that will help you gain practical experience with various DevOps concepts and tools. The exercises are designed to be simple, straightforward, and easy to follow, with step-by-step instructions and we have recored videos playlist at [Bilibili](https://space.bilibili.com/370989874/channel/collectiondetail?sid=338624) and [YouTube](https://www.youtube.com/watch?v=XBglZDywiXk&list=PLbiCRAJeBtFucYb2W_autUr8G5OGAUFAU&ab_channel=DevOpsChina), check them out first.
+Welcome to the DevOps China code live show! This lab is a collection of hands-on, self-paced exercises that will help you gain practical experience with various DevOps concepts and tools. The exercises are designed to be simple, straightforward, and easy to follow, with step-by-step instructions.
+
+Season one playlist 
+* [Bilibili](https://space.bilibili.com/370989874/channel/collectiondetail?sid=338624) 
+* [YouTube](https://www.youtube.com/watch?v=XBglZDywiXk&list=PLbiCRAJeBtFucYb2W_autUr8G5OGAUFAU&ab_channel=DevOpsChina), check them out first.
+
+Season two is now open for summit a new idea at [MKT4D issues](https://github.com/DevopsChina/mkt4d/issues)
 
 Each code live show is a separate directory in this repository, and each directory contains a README file with detailed instructions, along with any necessary configuration files or sample code. Whether you're new to DevOps or an experienced practitioner, this lab will help you take your skills to the next level and give you the confidence to tackle real-world challenges.
 
+### 第二季鉴宝活动火热招募中，请提交你的分享思路到：[MKT4D issues](https://github.com/DevopsChina/mkt4d/issues)
 
 大家想要获取DevOps的理念和技术，收获深刻的理解；社区建议的途径是示例项目实操。这里是直播节目的代码仓库。我们用 DevOps 工具鉴宝的直播方式，请各路实战经验丰富的工程师给社区分享一些列有趣有料的Codelab，并在直播过程中进行生动的讲解和互动问答。
 
@@ -170,4 +177,4 @@ Each code live show is a separate directory in this repository, and each directo
 
 ## 行为准则
 
-本项目是面向所有社区参与者的共创学习项目，请任何参与者遵守[《中国DevOps社区行为规范》](https://devopschina.org/zh-hans/code-of-conduct)
+本项目是面向所有社区参与者的共创学习项目，请任何参与者遵守[《中国DevOps社区行为规范》](https://www.devopschina.org/codeofconduct/)
